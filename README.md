@@ -8,7 +8,7 @@ I choose to create a notebook that use [INMET](https://portal.inmet.gov.br/dados
 
 ## Data collection and summarization
 
-The dataset presets the columns:
+The raw dataset presets the columns:
 
 * ESTACAO / STATION
 * DATA (YYYY-MM-DD) / DATE (YYYY-MM-DD)
@@ -31,7 +31,7 @@ The dataset presets the columns:
 * VENTO, RAJADA MAXIMA (m/s) / WIND, MAXIMUM GUNS (m/s)
 * VENTO, VELOCIDADE HORARIA (m/s) / WIND, HOUR SPEED (m/s)
 
-The outputs will be:
+The summarize dataset presents the information:
 
 * Weather year by year raw (weather_YYYY.zip)
 * Weather year by year summarized (weather_sum_YYYY.zip)
